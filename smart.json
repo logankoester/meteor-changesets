@@ -1,0 +1,9 @@
+{
+  "name": "changesets",
+  "description": "text-based concurrent multi-user using operational transformation",
+  "homepage": "https://github.com/logankoester/meteor-changesets",
+  "author": "(https://github.com/marcelklehr/changeset://github.com/marcelklehr/changesets)",
+  "version": "0.2.7",
+  "git": "https://github.com/logankoester/meteor-changesets.git",
+  "packages": {}
+}
